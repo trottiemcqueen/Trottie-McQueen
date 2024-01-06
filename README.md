@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trottiemcqueen&label=Profile%20views&color=0e75b6&style=flat" alt="trottiemcqueen" /> </p>
 
-- 🔭 I’m currently working on [Face image recognition smartbrain app](clone https://github.com/trottiemcqueen/face-image-recognition-smartbrain-app.git)
+- 🔭 I’m currently working on developing / publishing a App from scratch utilizing Python and React for starters w/ custom design and CSS / HTML / overall layout design and coding schema / structure. 
 
-- 🌱 I’m currently learning **PostgreSQL, Express.js, TensorFlow**
+- 🌱 I’m currently learning **PostgreSQL, Python, and custom API's**
 
 - 📝 I regularly write articles on [https://hashnode.com/@trottiemcqueen](https://hashnode.com/@trottiemcqueen)
 
