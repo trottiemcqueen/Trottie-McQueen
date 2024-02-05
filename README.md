@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on developing / publishing a App from scratch utilizing Python and React for starters w/ custom design and CSS / HTML / overall layout design and coding schema / structure. 
 
-- 🌱 I’m currently learning **PostgreSQL, Python, and custom API's**
+- 🌱 I’m currently learning **PostgreSQL and Machine Learning in Python**
 
 - 📝 I regularly write articles on [https://hashnode.com/@trottiemcqueen](https://hashnode.com/@trottiemcqueen)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://trottiemcqueen.github.io/Portfolio/](https://trottiemcqueen.github.io/Portfolio/)
 
-- ⚡ Fun fact **The number 9 is mysterious; multiplying it reveals hidden patterns.**
+- ⚡ Fun fact **Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
