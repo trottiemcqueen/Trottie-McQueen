@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trottiemcqueen&label=Profile%20views&color=0e75b6&style=flat" alt="trottiemcqueen" /> </p>
 
-- 🔭 I’m currently working on developing / publishing a App from scratch utilizing Python and React for starters w/ custom design and CSS / HTML / overall layout design and coding schema / structure. 
+- 🔭 I’m currently working on developing / publishing a App from scratch (stay tuned). 
 
 - 🌱 I’m currently learning **PostgreSQL and Machine Learning in Python**
 
 - 📝 I regularly write articles on [https://hashnode.com/@trottiemcqueen](https://hashnode.com/@trottiemcqueen)
 
-- 💬 Ask me about **React & Node.js Creating API's**
+- 💬 Ask me about **Strategic Team Project Building**
 
 - 📫 How to reach me **mTrottim@gmail.com**
 
