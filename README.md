@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Strategic Team Project Building**
 
-- 📫 How to reach me **mTrottim@gmail.com**
+- 📫 How to reach me **trottie.mcqueen@mtrottim.me**
 
 - 📄 Know about my experiences [https://trottiemcqueen.github.io/Portfolio/](https://trottiemcqueen.github.io/Portfolio/)
 
