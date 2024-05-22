@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on developing / publishing a App from scratch (stay tuned). 
 
-- 🌱 I’m currently learning **PostgreSQL and Machine Learning in Python**
+- 🌱 I’m currently learning **PostgreSQL, AI ML & DL, and Next js**
 
 - 📝 I regularly write articles on [https://hashnode.com/@trottiemcqueen](https://hashnode.com/@trottiemcqueen)
 
