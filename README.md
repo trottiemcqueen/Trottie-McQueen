@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, AI ML & DL, and Next js**
 
-- 📝 I regularly write articles on [https://hashnode.com/@trottiemcqueen](https://hashnode.com/@trottiemcqueen)
+- 📝 I regularly write articles on [https://hashnode.com/@trottiemcqueen](https://hashnode.com/@trottiemcqueen) & [https://mtrottim.com](https://mtrottim.com)
 
 - 💬 Ask me about **Strategic Team Project Building**
 
